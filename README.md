@@ -58,7 +58,7 @@ npm run build
 ```
 Deploy it on platforms like **Netlify**, **Vercel**, or **GitHub Pages**.
 ## Screenshot
-![Netflix Trailer App Screenshot](YOUR_IMAGE_LINK_HERE)
+![Netflix Trailer App Screenshot](Demo.png)
 
 ## Demo
 View the project demo here: [Live Demo](https://netflix-clone-518cf.firebaseapp.com/)
